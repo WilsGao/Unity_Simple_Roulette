@@ -3,45 +3,45 @@
     "list": [
         {
             "id": "099",
-            "name": "Impossible",
-            "chance": 0.0,
-            "starclass": 99,
+            "name": "A賞Impossible",
+            "chance": 0.1,
+            "starclass": 6,
             "imageFileName": "005_Anya"
         },
         {
             "id": "001",
-            "name": "A賞",
+            "name": "B賞",
             "chance": 1.0,
             "starclass": 5,
-            "imageFileName": "000_new role"
+            "imageFileName": "001_new role"
         },
         {
             "id": "002",
-            "name": "B賞",
+            "name": "C賞",
             "chance": 0.5,
             "starclass": 4,
-            "imageFileName": "001_new_role"
+            "imageFileName": "002_new_role"
         },
         {
             "id": "005",
-            "name": "C賞",
-            "chance": 56.0,
-            "starclass": 1,
-            "imageFileName": "004_Aqua"
-        },
-        {
-            "id": "003",
             "name": "D賞",
             "chance": 6.0,
             "starclass": 3,
-            "imageFileName": "002_Anya"
+            "imageFileName": "005_Aqua"
         },
         {
-            "id": "004",
+            "id": "003",
             "name": "E賞",
             "chance": 36.0,
             "starclass": 2,
             "imageFileName": "003_Anya"
+        },
+        {
+            "id": "004",
+            "name": "F賞",
+            "chance": 56.0,
+            "starclass": 1,
+            "imageFileName": "004_Anya"
         }
     ]
 }
